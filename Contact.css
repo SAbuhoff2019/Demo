@@ -1,0 +1,133 @@
+ .u-section-1 {
+  background-image: linear-gradient(#478ac9, rgba(2,61,126,0.88));
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 550px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Chakra Petch";
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  font-weight: 400;
+  font-family: "Chakra Petch";
+  margin: 22px 527px 0 180px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 64px;
+  width: 64px;
+  margin: -24px 489px 0 auto;
+}
+
+.u-section-1 .u-icon-2 {
+  height: 64px;
+  width: 64px;
+  margin: -64px auto 0 96px;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: uppercase;
+  font-size: 1.125rem;
+  letter-spacing: 1px;
+  font-family: "Chakra Petch";
+  font-weight: normal;
+  margin: -61px 40px 0 667px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "Chakra Petch";
+  margin: 4px auto 0 180px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  border-style: none;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  font-weight: 700;
+  font-family: "Chakra Petch";
+  margin: -38px 129px 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 427px;
+    margin-left: 80px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 403px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+    margin-left: 507px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 287px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 309px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 287px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 107px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 232px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 107px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-right: 146px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 0;
+  }
+}

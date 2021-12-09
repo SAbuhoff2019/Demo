@@ -1,0 +1,315 @@
+ .u-section-1 {
+  background-image: linear-gradient(#478ac9, rgba(2,61,126,0.88));
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1054px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 809px;
+  height: 708px;
+  margin: 55px auto 0;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: -703px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 512px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  width: 191px;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  margin: 26px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 256px;
+  background-image: url("images/Picture5.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  margin: 220px 103px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 256px;
+  background-image: url("images/Pic.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  text-align: center;
+  margin: 220px 146px 0 0;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 256px;
+  background-image: url("images/Picture4.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  text-align: center;
+  margin: 220px 121px 0 0;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 256px;
+  background-image: url("images/Picture1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  text-align: center;
+  margin: 220px 92px 0 0;
+}
+
+.u-section-1 .u-image-5 {
+  min-height: 256px;
+  background-image: url("images/Picture2.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-6 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-7 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  text-align: center;
+  margin: 220px 105px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 900px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 422px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 63px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 106px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 81px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 52px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 211px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 65px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 663px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 19px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 62px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 37px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 8px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 162px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 21px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1686px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 608px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 608px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 608px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 608px;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 608px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1201px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 268px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-5 {
+    min-height: 383px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 0;
+  }
+}

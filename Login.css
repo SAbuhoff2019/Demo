@@ -1,0 +1,149 @@
+ .u-section-1 {
+  background-image: linear-gradient(#478ac9, rgba(2,61,126,0.88));
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 550px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 103px auto 0;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 210px;
+  height: 41px;
+  margin: 51px 404px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "Chakra Petch";
+  margin: -33px 486px 0 auto;
+}
+
+.u-section-1 .u-text-3 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: -32px auto 0 404px;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 210px;
+  height: 41px;
+  margin: 12px 404px 0 auto;
+}
+
+.u-section-1 .u-text-4 {
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  font-size: 1.5rem;
+  text-align: center;
+  margin: -38px auto 0 404px;
+}
+
+.u-section-1 .u-text-5 {
+  font-family: "Chakra Petch";
+  text-align: center;
+  margin: -33px 491px 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  background-image: none;
+  font-family: "Chakra Petch";
+  font-weight: 700;
+  margin: 44px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 401px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 333px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 333px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 405px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 307px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 255px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 255px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 310px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    margin-right: 330px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 230px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 191px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-right: 330px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 191px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 233px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-shape-1 {
+    margin-right: 130px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 145px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 120px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-right: 130px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-left: 120px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 147px;
+  }
+}
